@@ -4,16 +4,21 @@
 
 <div>
 <a href="https://github.com/Isabella-Amantino">
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Isabella-Amantino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabella-Amantino&layout=compact&langs_count=7&theme=dracula"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Isabella-Amantino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabella-Amantino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
 
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+          
+          
+</div>
           
           
           
